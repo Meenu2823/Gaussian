@@ -62,8 +62,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination](<exp-6 maths.png>)
-
+![Alt text](<exp-6 maths-1.png>)
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
