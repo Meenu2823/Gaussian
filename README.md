@@ -62,7 +62,7 @@ for i in range(n):
 ```
 
 ## Output:
-![output](<exp-6 maths.png>)
+![gaussian elimination](<exp-6 maths.png>)
 
 
 ## Result:
